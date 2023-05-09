@@ -1,0 +1,17 @@
+body{
+  text-align: center;
+}
+h1{
+  color: dimgray;
+}
+a{
+  text-decoration: none;
+  background-color: deeppink;
+  color: white;
+  padding: 15px;
+  border-radius: 5px;
+}
+a:hover{
+  background-color: palevioletred;
+  color: white;
+}
